@@ -1,0 +1,14 @@
+/work/
+/.godot/
+/engine/
+/黄道征途.exe
+/美术需求_P1.md
+
+__pycache__/
+*.apk
+*.idsig
+*.keystore
+*.jks
+release-key.json
+.env
+.env.*
